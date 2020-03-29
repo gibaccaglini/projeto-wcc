@@ -17,7 +17,7 @@
         <dockerfile-maven.version>1.4.12</dockerfile-maven.version>
         <git-commit-id-plugin.version>4.0.0</git-commit-id-plugin.version>
         <jacoco.version>0.8.4</jacoco.version>
-        <checkstyle.version>8.15</checkstyle.version>
+        <checkstyle.version>8.29</checkstyle.version>
         <checkstyle-config.file>etc/checkstyle/checkstyle.xml</checkstyle-config.file>
         <checkstyle-suppression.file>etc/checkstyle/supressions.xml</checkstyle-suppression.file>
         <maven-checkstyle-plugin.version>3.0.0</maven-checkstyle-plugin.version>
